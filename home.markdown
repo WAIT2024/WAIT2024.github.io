@@ -5,7 +5,7 @@ title:  "WAIT2024"
 ---
 
 Join us for **the 5th workshop on Automated Inductive Theorem Proving**. 
-Building on the success of previous editions - 1st in London (2013), 2nd in Gothenburg (2015), 3rd in Vienna (2016), and 4th in Amsterdam (2018) - 
+Building on the success of previous editions - 1st in London (2013), [2nd in Gothenburg (2015)](https://smallbone.se/induction/), 3rd in Vienna (2016), and [4th in Amsterdam (2018)](https://matryoshka-project.github.io/wait2018/) - 
 this year's workshop focuses on the latest advancements in both inductive and coinductive methods. 
 This event is a pivotal platform for researchers and practitioners to explore challenges and innovations in computational verification, 
 fostering collaboration across diverse verification methods like SMT, HOL, FOL, etc. 
