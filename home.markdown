@@ -43,7 +43,7 @@ To be announced.
 
 To be announced.
 
-# Organizers.
+# Organisers
 
 - [Sorin Stratulat](https://members.loria.fr/SStratulat/)
 - [Yutaka Nagashima](united.reasoning@gmail.com)
