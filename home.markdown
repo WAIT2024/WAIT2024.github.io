@@ -43,5 +43,5 @@ To be announced.
 
 # Organizers.
 
-- [Sorin Stratulat](https://members.loria.fr/SStratulat/)https://members.loria.fr/SStratulat/)
+- [Sorin Stratulat](https://members.loria.fr/SStratulat/)
 - [Yutaka Nagashima](united.reasoning@gmail.com)
