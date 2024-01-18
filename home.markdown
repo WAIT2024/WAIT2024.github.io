@@ -28,12 +28,13 @@ This collaborative environment is vital for spurring innovation and addressing t
 
 # Venue
 
-To be announced.
+WAIT2024 is collocated with [IJCAR2024](https://merz.gitlabpages.inria.fr/2024-ijcar/).
 
-# Schedule
+# Dates
 
 - The abstract submission deadline: 15 May (tentative)
 - The notification: 1 June (tentative)
+- Workshop: July 2
 
 # Program
 
