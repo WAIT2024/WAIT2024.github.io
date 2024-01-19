@@ -36,6 +36,10 @@ WAIT2024 is collocated with [IJCAR2024](https://merz.gitlabpages.inria.fr/2024-i
 - The notification: 1 June (tentative)
 - Workshop: July 2
 
+# Invited Speakers
+
+To be announced.
+
 # Program
 
 To be announced.
