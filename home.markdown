@@ -44,10 +44,6 @@ To be announced.
 
 To be announced.
 
-# Participants
-
-To be announced.
-
 # Organisers
 
 - [Sorin Stratulat](https://members.loria.fr/SStratulat/)
