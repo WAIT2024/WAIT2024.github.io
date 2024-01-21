@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The 5th International Workshop on Automated Inductive Theorem Proving
+title: The 5th International Workshop on Automated (Co)inductive Theorem Proving
 email: wait.in.france@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Join us for the 5th workshop on Automated Inductive Theorem Proving. 
+  Join us for the 5th workshop on Automated (Co)inductive Theorem Proving. 
   Don't miss this opportunity to engage with experts and shape the future of verification techniques.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
