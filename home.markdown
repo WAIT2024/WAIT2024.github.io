@@ -1,7 +1,6 @@
 ---
 layout: home
 permalink: /
-title:  "WAIT2024"
 ---
 
 Join us for **the 5th workshop on Automated (Co)inductive Theorem Proving**. 
