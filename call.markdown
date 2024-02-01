@@ -1,3 +1,9 @@
+---
+layout: page
+title: Call
+permalink: /call/
+---
+
 5th International Workshop on Automated (Co)inductive Theorem Proving
 
 We are delighted to announce the Fifth International Workshop on Automated (Co)inductive Theorem Proving, an event dedicated to the latest developments in inductive and coinductive methods for verification. This workshop is a significant gathering for researchers and practitioners in the field, providing an invaluable opportunity to explore current challenges and innovations in computational verification.
