@@ -35,6 +35,6 @@ proving.
 
 **Dissemination and Special Issue:** Selected abstracts and presentation slides will be published on the workshop website. There's also a plan for a special journal issue based on the workshop's theme, subject to participant interest.
 
-Join Us: Be a part of this stimulating event to discuss, learn, and contribute to the future of automated (co)inductive theorem proving. For more information, please contact the organizers, Yutaka Nagashima and Sorin Stratulat at wait.in.france@gmail.com.
+Join Us: Be a part of this stimulating event to discuss, learn, and contribute to the future of automated (co)inductive theorem proving. For more information, please contact the organizers, Yutaka Nagashima and Sorin Stratulat at [wait.in.france@gmail.com](mailto:wait.in.france@gmail.com).
 
 Don’t miss this opportunity to engage with a vibrant community and shape the future of verification techniques. We look forward to your submissions and participation!
