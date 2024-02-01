@@ -22,7 +22,7 @@ We are delighted to announce the Fifth International Workshop on Automated (Co)i
 
 **Length:** 1-2 pages excluding references.
 
-**Recommended** Format: easychair.cls
+**Recommended Format**: [easychair.cls](https://easychair.org/publications/easychair.zip)
 
 **Important Dates:**
 - Abstract Submission Deadline: 15 May.
