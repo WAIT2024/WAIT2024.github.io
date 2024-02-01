@@ -38,7 +38,10 @@ WAIT2024 is collocated with [IJCAR2024](https://merz.gitlabpages.inria.fr/2024-i
 
 # Invited Speakers
 
-To be announced.
+- Prof. Dmitriy Traytel from the University of Copenhagen
+- Dr. Stefan Hetzl from the Vienna University of Technology. 
+
+The list is to be completed.
 
 # Program
 
