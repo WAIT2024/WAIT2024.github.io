@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Call
+title: CfP
 permalink: /call/
 ---
 
