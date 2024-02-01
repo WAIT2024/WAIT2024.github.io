@@ -12,7 +12,9 @@ We are delighted to announce the Fifth International Workshop on Automated (Co)i
 - Developments in coinductive methods and their growing relevance in verification and industrial applications.
 - Cross-disciplinary collaboration to foster innovation in computational verification methods, including SMT, HOL, FOL, etc.
 
-**Featured Speakers Announcement:** We are thrilled to announce that this year's workshop will feature at least two distinguished invited speakers: Prof. Dmitriy Traytel from the University of Copenhagen and Dr. Stefan Hetzl from the Vienna University of Technology. 
+**Featured Speakers Announcement:** We are thrilled to announce that this year's workshop will feature at least two distinguished invited speakers: 
+- [Prof. Dmitriy Traytel](https://traytel.bitbucket.io) from the University of Copenhagen
+- [Dr. Stefan Hetzl](https://dmg.tuwien.ac.at/hetzl/) from the Vienna University of Technology
 
 **Call for Abstracts:** We invite you to submit an extended abstract showcasing your latest research, findings, or ongoing studies in the field of automated (co)inductive theorem proving. This is a fantastic platform to share your work with a diverse and expert audience, engage in intellectual exchange, and contribute to the advancement of the field. We welcome studies and findings published within the last five years.
 
