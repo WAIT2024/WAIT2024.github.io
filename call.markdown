@@ -18,7 +18,7 @@ We are delighted to announce the Fifth International Workshop on Automated (Co)i
 
 **Call for Abstracts:** We invite you to submit an extended abstract showcasing your latest research, findings, or ongoing studies in the field of automated (co)inductive theorem proving. This is a fantastic platform to share your work with a diverse and expert audience, engage in intellectual exchange, and contribute to the advancement of the field. We welcome studies and findings published within the last five years.
 
-**Submission Guidelines:** abstracts are to be sent to wait.in.france@gmail.com
+**Submission Guidelines:** abstracts are to be sent to [wait.in.france@gmail.com](mailto:wait.in.france@gmail.com)
 
 **Length:** 1-2 pages excluding references.
 
