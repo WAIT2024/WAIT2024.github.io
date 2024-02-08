@@ -36,7 +36,7 @@ WAIT2024 is collocated with [IJCAR2024](https://merz.gitlabpages.inria.fr/2024-i
 - Workshop: July 2
 
 # Invited Speakers
-
+- [Prof. Andrei Voronkov](http://voronkov.com) from the University of Manchester and [Ms. Petra Hozzová](https://logic-cs.at/phd/students/petra-hozzova/) from the Vienna University of Technology
 - [Prof. Dmitriy Traytel](https://traytel.bitbucket.io) from the University of Copenhagen
 - [Dr. Stefan Hetzl](https://dmg.tuwien.ac.at/hetzl/) from the Vienna University of Technology
 
