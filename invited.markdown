@@ -4,9 +4,7 @@ title: Invited Talks
 permalink: /invited/
 ---
 
-# Invited Talks
-
-## Title: Coinductive Reasoning in [Isabelle/HOL](https://isabelle.in.tum.de)
+### Title: Coinductive Reasoning in [Isabelle/HOL](https://isabelle.in.tum.de)
 
 Speaker: [Prof. Dmitriy Traytel](https://traytel.bitbucket.io) from the University of Copenhagen
 
