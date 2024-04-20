@@ -12,7 +12,8 @@ We are delighted to announce the Fifth International Workshop on Automated (Co)i
 - Developments in coinductive methods and their growing relevance in verification and industrial applications.
 - Cross-disciplinary collaboration to foster innovation in computational verification methods, including SMT, HOL, FOL, etc.
 
-**Featured Speakers Announcement:** We are thrilled to announce that this year's workshop will feature at least two distinguished invited speakers: 
+**Featured Speakers Announcement:** We are thrilled to announce that this year's workshop will feature four distinguished invited speakers: 
+- [Prof. Andrei Voronkov](http://voronkov.com) from the University of Manchester and [Ms. Petra Hozzová](https://logic-cs.at/phd/students/petra-hozzova/) from the Vienna University of Technology
 - [Prof. Dmitriy Traytel](https://traytel.bitbucket.io) from the University of Copenhagen
 - [Dr. Stefan Hetzl](https://dmg.tuwien.ac.at/hetzl/) from the Vienna University of Technology
 
