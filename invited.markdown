@@ -18,6 +18,8 @@ permalink: /invited/
 
 **Abstract**: TBA
 
+![Dr. Stefan Hetzl](./stefan_hetzl.jpeg)
+
 ### Title: TBA
 
 **Speaker**: [Prof. Andrei Voronkov](http://voronkov.com) from the University of Manchester and [Ms. Petra Hozzová](https://logic-cs.at/phd/students/petra-hozzova/) from the Vienna University of Technology
