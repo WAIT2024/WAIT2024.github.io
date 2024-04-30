@@ -58,6 +58,7 @@ based on joint work with [Jannik Vierling](https://jvierling.github.io).
   </a>
 </div>
 
+
 **Abstract**:
 
 Induction in saturation-based first-order theorem proving is a new exciting direction in automated reasoning, bringing together inductive reasoning and reasoning with full first-order logic extended with theories.
