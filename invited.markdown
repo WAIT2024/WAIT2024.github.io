@@ -11,7 +11,7 @@ permalink: /invited/
 **Abstract**: Coinductive methods are used to reason about the infinitary behavior of systems, e.g., manifested in traces of useful (potentially) non-terminating programs. Examples of such programs range from semi-decision procedures for automated theorem proving to web servers interacting with clients. In this presentation, I will survey the coinductive capabilities of the Isabelle proof assistant, with a focus on defining and reasoning about corecursive functions. In particular, I will highlight challenges for proof automation that arise in this setting.
 
 <a href="https://traytel.bitbucket.io" target="_blank">
-<img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/dmitriy_traytel.png" height="300">
+<img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/dmitriy_traytel.png" height="200">
 </a>
 
 ### **Title**: Gauging the strength of inductive theorem provers
@@ -42,7 +42,7 @@ particular emphasis on the challenge problems obtained from them. This talk is
 based on joint work with [Jannik Vierling](https://jvierling.github.io).
 
 <a href="https://dmg.tuwien.ac.at/hetzl/" target="_blank">
-<img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/stefan_hetzl.jpeg" height="300">
+<img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/stefan_hetzl.jpeg" height="200">
 </a>
 
 ### **Title**: Induction in Saturation-Based Proving
@@ -77,9 +77,9 @@ The tutorial will consist of the following parts supported by live demonstration
 
 <div style="display: flex; align-items: center;">
   <a href="http://voronkov.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/andrei_voronkov.jpg" height="300" style="margin-right: 20px;"> <!-- Adjust margin as needed -->
+    <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/andrei_voronkov.jpg" height="200" style="margin-right: 20px;"> <!-- Adjust margin as needed -->
   </a>
   <a href="https://logic-cs.at/phd/students/petra-hozzova/" target="_blank">
-    <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/petra_hozzova.jpg" height="300">
+    <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/petra_hozzova.jpg" height="200">
   </a>
 </div>
