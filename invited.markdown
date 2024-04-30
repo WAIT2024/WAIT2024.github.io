@@ -51,13 +51,12 @@ based on joint work with [Jannik Vierling](https://jvierling.github.io).
 
 <div style="display: flex; align-items: center;">
   <a href="http://voronkov.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/andrei_voronkov.jpg" height="170" style="margin-right: 20px;"> <!-- Adjust margin as needed -->
+    <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/andrei_voronkov.jpg" height="170"> <!-- Adjust margin as needed -->
   </a>
   <a href="https://logic-cs.at/phd/students/petra-hozzova/" target="_blank">
     <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/petra_hozzova.jpg" height="170">
   </a>
 </div>
-
 
 **Abstract**:
 
