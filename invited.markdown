@@ -26,7 +26,7 @@ by `M` (given unlimited time and memory).
 Standard notions and techniques from mathematical logic provide an adequate
 basis for carrying out such analyses and for building on them to obtain
 additional results about `M`. More concretely, we try to find a theory `T` that is
-closely related to `M` in the sense that `T` proves exactly the same theorems as M
+closely related to `M` in the sense that `T` proves exactly the same theorems as `M`
 or, more realistically, every theorem provable by `M` is provable by `T` (but `T`
 does not prove "much more").
 
@@ -37,7 +37,7 @@ suitable challenge problems for the improvement of inductive theorem provers.
 
 In this talk I will present the analyses of several popular methods and put
 particular emphasis on the challenge problems obtained from them. This talk is
-based on joint work with Jannik Vierling.
+based on joint work with [Jannik Vierling](https://jvierling.github.io).
 
 <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/stefan_hetzl.jpeg" height="300">
 
