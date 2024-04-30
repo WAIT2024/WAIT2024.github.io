@@ -7,6 +7,7 @@ permalink: /invited/
 ### **Title**: Coinductive Reasoning in [Isabelle/HOL](https://isabelle.in.tum.de)
 
 **Speaker**: [Prof. Dmitriy Traytel](https://traytel.bitbucket.io) from the University of Copenhagen
+
 <a href="https://traytel.bitbucket.io" target="_blank">
 <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/dmitriy_traytel.png" height="170">
 </a>
@@ -16,6 +17,7 @@ permalink: /invited/
 ### **Title**: Gauging the strength of inductive theorem provers
 
 **Speaker**: [Dr. Stefan Hetzl](https://dmg.tuwien.ac.at/hetzl/) from the Vienna University of Technology
+
 <a href="https://dmg.tuwien.ac.at/hetzl/" target="_blank">
 <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/stefan_hetzl.jpeg" height="170">
 </a>
@@ -46,6 +48,7 @@ based on joint work with [Jannik Vierling](https://jvierling.github.io).
 ### **Title**: Induction in Saturation-Based Proving
 
 **Speaker**: [Prof. Andrei Voronkov](http://voronkov.com) from the University of Manchester and [Ms. Petra Hozzová](https://logic-cs.at/phd/students/petra-hozzova/) from the Vienna University of Technology
+
 <div style="display: flex; align-items: center;">
   <a href="http://voronkov.com" target="_blank">
     <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/andrei_voronkov.jpg" height="170" style="margin-right: 20px;"> <!-- Adjust margin as needed -->
