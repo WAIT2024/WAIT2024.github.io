@@ -10,7 +10,9 @@ permalink: /invited/
 
 **Abstract**: Coinductive methods are used to reason about the infinitary behavior of systems, e.g., manifested in traces of useful (potentially) non-terminating programs. Examples of such programs range from semi-decision procedures for automated theorem proving to web servers interacting with clients. In this presentation, I will survey the coinductive capabilities of the Isabelle proof assistant, with a focus on defining and reasoning about corecursive functions. In particular, I will highlight challenges for proof automation that arise in this setting.
 
+<a href="https://traytel.bitbucket.io" target="_blank">
 <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/dmitriy_traytel.png" height="300">
+</a>
 
 ### **Title**: Gauging the strength of inductive theorem provers
 
@@ -32,14 +34,16 @@ does not prove "much more").
 
 In either case, model-theoretic techniques can then be used to obtain a
 practically relevant independence result, i.e., a simple and natural true
-statement unprovable in `T`, and hence unprovable in M. Such statements are
+statement unprovable in `T`, and hence unprovable in `M`. Such statements are
 suitable challenge problems for the improvement of inductive theorem provers.
 
 In this talk I will present the analyses of several popular methods and put
 particular emphasis on the challenge problems obtained from them. This talk is
 based on joint work with [Jannik Vierling](https://jvierling.github.io).
 
+<a href="https://dmg.tuwien.ac.at/hetzl/" target="_blank">
 <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/stefan_hetzl.jpeg" height="300">
+</a>
 
 ### **Title**: Induction in Saturation-Based Proving
 
@@ -55,7 +59,7 @@ Traditional approaches to inductive theorem proving, based on goal-subgoal reduc
 
 Rather, our approach applies induction by theory lemma generation: from time to time we add to the search space instances of induction axioms, which are valid in the underlying theory but not valid in first-order predicate logic. To formalise this, we introduce new inference rules adding (clausal forms of) such induction axioms within saturation. Applications of these rules are triggered by recognition of formulas in the search space that can be considered as goals solvable by induction.
 
-We also propose additional reasoning methods for strengthening inductive reasoning, as well as for handling recursive function definitions. We implemented our work in the Vampire theorem prover and demonstrate the practical impact in experiments.
+We also propose additional reasoning methods for strengthening inductive reasoning, as well as for handling recursive function definitions. We implemented our work in [the Vampire theorem prover](https://vprover.github.io) and demonstrate the practical impact in experiments.
 
 The tutorial will consist of the following parts supported by live demonstrations:
 
@@ -72,6 +76,10 @@ The tutorial will consist of the following parts supported by live demonstration
 - For a survey , also see: [Getting Saturated with Induction (2022)](https://doi.org/10.1007/978-3-031-22337-2_15), M. Hajdu, P. Hozzová, L. Kovács, G. Reger, and A. Voronkov, in Principles of Systems Design
 
 <div style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/andrei_voronkov.jpg" height="300" style="margin-right: 20px;"> <!-- Adjust margin as needed -->
-  <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/petra_hozzova.jpg" height="300">
+  <a href="http://voronkov.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/andrei_voronkov.jpg" height="300" style="margin-right: 20px;"> <!-- Adjust margin as needed -->
+  </a>
+  <a href="https://logic-cs.at/phd/students/petra-hozzova/" target="_blank">
+    <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/petra_hozzova.jpg" height="300">
+  </a>
 </div>
