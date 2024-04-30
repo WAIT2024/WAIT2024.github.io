@@ -10,7 +10,7 @@ permalink: /invited/
 
 **Abstract**: Coinductive methods are used to reason about the infinitary behavior of systems, e.g., manifested in traces of useful (potentially) non-terminating programs. Examples of such programs range from semi-decision procedures for automated theorem proving to web servers interacting with clients. In this presentation, I will survey the coinductive capabilities of the Isabelle proof assistant, with a focus on defining and reasoning about corecursive functions. In particular, I will highlight challenges for proof automation that arise in this setting.
 
-<img src="./dmitriy_traytel.png" height="300">
+<img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/dmitriy_traytel.png" height="300">
 
 ### Title: Gauging the strength of inductive theorem provers
 
@@ -39,7 +39,7 @@ In this talk I will present the analyses of several popular methods and put
 particular emphasis on the challenge problems obtained from them. This talk is
 based on joint work with Jannik Vierling.
 
-<img src="./stefan_hetzl.jpeg" height="300">
+<img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/stefan_hetzl.jpeg" height="300">
 
 ### Title: Induction in Saturation-Based Proving
 
