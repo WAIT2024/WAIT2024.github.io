@@ -10,7 +10,7 @@ permalink: /invited/
 
 **Abstract**: Coinductive methods are used to reason about the infinitary behavior of systems, e.g., manifested in traces of useful (potentially) non-terminating programs. Examples of such programs range from semi-decision procedures for automated theorem proving to web servers interacting with clients. In this presentation, I will survey the coinductive capabilities of the Isabelle proof assistant, with a focus on defining and reasoning about corecursive functions. In particular, I will highlight challenges for proof automation that arise in this setting.
 
-![Prof. Dmitriy Traytel](./dmitriy_traytel.png)
+<img src="./dmitriy_traytel.png" height="300">
 
 ### Title: Gauging the strength of inductive theorem provers
 
@@ -39,7 +39,7 @@ In this talk I will present the analyses of several popular methods and put
 particular emphasis on the challenge problems obtained from them. This talk is
 based on joint work with Jannik Vierling.
 
-![Dr. Stefan Hetzl](./stefan_hetzl.jpeg)
+<img src="./stefan_hetzl.jpeg" height="300">
 
 ### Title: Induction in Saturation-Based Proving
 
@@ -71,5 +71,7 @@ The tutorial will consist of the following parts supported by live demonstration
 - [3] [Induction with Recursive Definitions in Superposition (2021)](https://doi.org/10.34727/2021/isbn.978-3-85448-046-4_34), M. Hajdu, P. Hozzová, L. Kovács, and A. Voronkov, in Proc. of FMCAD 
 - For a survey , also see: [Getting Saturated with Induction (2022)](https://doi.org/10.1007/978-3-031-22337-2_15), M. Hajdu, P. Hozzová, L. Kovács, G. Reger, and A. Voronkov, in Principles of Systems Design
 
-![Prof. Andrei Voronkov](image/andrei_voronkov.jpg)
-![Ms. Petra Hozová](image/petra_hozzova.jpg)
+<div style="display: flex; align-items: center;">
+  <img src="image/andrei_voronkov.jpg" height="200" style="margin-right: 20px;"> <!-- Adjust margin as needed -->
+  <img src="image/petra_hozzova.jpg" height="200">
+</div>
