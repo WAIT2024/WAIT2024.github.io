@@ -73,5 +73,5 @@ The tutorial will consist of the following parts supported by live demonstration
 
 <div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/andrei_voronkov.jpg" height="300" style="margin-right: 20px;"> <!-- Adjust margin as needed -->
-  <img src="image/petra_hozzova.jpg" height="300">
+  <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/petra_hozzova.jpg" height="300">
 </div>
