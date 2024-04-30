@@ -72,6 +72,6 @@ The tutorial will consist of the following parts supported by live demonstration
 - For a survey , also see: [Getting Saturated with Induction (2022)](https://doi.org/10.1007/978-3-031-22337-2_15), M. Hajdu, P. Hozzová, L. Kovács, G. Reger, and A. Voronkov, in Principles of Systems Design
 
 <div style="display: flex; align-items: center;">
-  <img src="image/andrei_voronkov.jpg" height="200" style="margin-right: 20px;"> <!-- Adjust margin as needed -->
-  <img src="image/petra_hozzova.jpg" height="200">
+  <img src="image/andrei_voronkov.jpg" height="300" style="margin-right: 20px;"> <!-- Adjust margin as needed -->
+  <img src="image/petra_hozzova.jpg" height="300">
 </div>
