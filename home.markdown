@@ -49,4 +49,13 @@ To be announced.
 # Organisers
 
 - [Sorin Stratulat](https://members.loria.fr/SStratulat/)
-- [Yutaka Nagashima](united.reasoning@gmail.com)
+- [Yutaka Nagashima](https://www.youtube.com/@unitedreasoning6567)
+
+<div style="display: flex; align-items: center;">
+  <a href="https://members.loria.fr/SStratulat/" target="_blank">
+    <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/sorin_stratulat.jpg" height="170"> <!-- Adjust margin as needed -->
+  </a>
+  <a href="https://www.youtube.com/@unitedreasoning6567" target="_blank">
+    <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/yutaka_nagashima.png" height="170">
+  </a>
+</div>
