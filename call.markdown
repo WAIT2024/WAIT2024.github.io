@@ -26,7 +26,7 @@ We are delighted to announce the Fifth International Workshop on Automated (Co)i
 **Recommended Format**: [easychair.cls](https://easychair.org/publications/easychair.zip)
 
 **Important Dates:**
-- Abstract Submission Deadline: 15 May (**However, we still accept abstracts, please reach out to the organizers.**).
+- Abstract Submission Deadline: 15 May (**However, we still accept abstracts, please reach out to the organizers**).
 - Notification of Acceptance: 1 June.
 
 **Workshop Format:** The workshop will feature in-depth tutorials, talks by leading experts, and a panel discussion for interactive dialogue. It is an ideal setting for networking, collaboration, and gaining new insights into the challenges and opportunities in automated theorem
