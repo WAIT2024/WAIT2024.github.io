@@ -31,7 +31,7 @@ WAIT2024 is collocated with [IJCAR2024](https://merz.gitlabpages.inria.fr/2024-i
 
 # Dates
 
-- The abstract submission deadline: 15 May (tentative)
+- The abstract submission deadline: 15 May (**However, we still accept abstracts, please reach out to the organizers**).
 - The notification: 1 June (tentative)
 - Workshop: July 2
 
