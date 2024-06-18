@@ -14,7 +14,7 @@ We look forward to seeing you at the event!
   - **Title: "Gauging the strength of inductive theorem provers"**  
   - Speaker: [Dr. Stefan Hetzl](https://dmg.tuwien.ac.at/hetzl/) from the Vienna University of Technology
 
-<a href="https://dmg.tuwien.ac.at/hetzl/" target="_blank">
+<a href="https://dmg.tuwien.ac.at/hetzl/" target="_blank" style="margin-left: 20px;">
 <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/stefan_hetzl.jpeg" height="170">
 </a>
 
@@ -29,7 +29,7 @@ We look forward to seeing you at the event!
   - **Title: "Coinductive Reasoning in Isabelle/HOL"**
   - Speaker:  [Prof. Dmitriy Traytel](https://traytel.bitbucket.io) from the University of Copenhagen
 
-<a href="https://traytel.bitbucket.io" target="_blank">
+<a href="https://traytel.bitbucket.io" target="_blank" style="margin-left: 20px;">
 <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/dmitriy_traytel.png" height="170">
 </a>
   
@@ -45,7 +45,7 @@ We look forward to seeing you at the event!
   - Speakers: [Prof. Andrei Voronkov](http://voronkov.com) from the University of Manchester and [Ms. Petra Hozzová](https://logic-cs.at/phd/students/petra-hozzova/) from the Vienna University of Technology
 
 <div style="display: flex; align-items: center;">
-  <a href="http://voronkov.com" target="_blank">
+  <a href="http://voronkov.com" target="_blank" style="margin-left: 20px;">
     <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/andrei_voronkov.jpg" height="170"> <!-- Adjust margin as needed -->
   </a>
   <a href="https://logic-cs.at/phd/students/petra-hozzova/" target="_blank">
@@ -60,7 +60,7 @@ We look forward to seeing you at the event!
   - **Title: Abduction Prover for Inductive Problems in Isabelle/HOL**
   - Speaker: Dr. Yutaka Nagashima
 
-<a href="https://www.youtube.com/@unitedreasoning6567" target="_blank">
+<a href="https://www.youtube.com/@unitedreasoning6567" target="_blank" style="margin-left: 20px;">
 <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/yutaka_nagashima.png" height="170">
 </a>
   
