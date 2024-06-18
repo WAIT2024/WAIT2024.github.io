@@ -4,8 +4,6 @@ title: Program
 permalink: /program/
 ---
 
-# Workshop Program
-
 Welcome to WAIT2024! Below is the schedule for the day.
 We look forward to seeing you at the event!
 
