@@ -35,7 +35,7 @@ We look forward to seeing you at the event!
   
 - Contributed Talk (12:00 - 12:30)
   - **Tentative Title: A Mathematical Benchmark for Inductive Theorem Provers**
-  - Speaker: [Dr. Mikoláš Janota](http://sat.inesc-id.pt/~mikolas/) from Czech Technical University in Prague
+  - Speaker: [Dr. Mikoláš Janota](https://people.ciirc.cvut.cz/~janotmik/) from Czech Technical University in Prague
 
 ### Lunch Break (12:30 - 14:00)
 
