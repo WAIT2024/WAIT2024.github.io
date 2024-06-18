@@ -40,7 +40,7 @@ We look forward to seeing you at the event!
 ### Lunch Break (12:30 - 14:00)
 
 ## Session 3  
-- **Tutorial (13:00 - 14:30)**
+- Tutorial (13:00 - 14:30)
   - **Title: Induction in Saturation-Based Proving**
   - Speakers: [Prof. Andrei Voronkov](http://voronkov.com) from the University of Manchester and [Ms. Petra Hozzová](https://logic-cs.at/phd/students/petra-hozzova/) from the Vienna University of Technology
 
