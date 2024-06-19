@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The 5th International Workshop on Automated (Co)inductive Theorem Proving
+title: The 5th International Workshop on Automated (Co)inductive Theorem Proving (Nancy, France, on July 2, 2024)
 subtitle: Nancy, France on July 2, 2024
 email: wait.in.france@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
