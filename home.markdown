@@ -40,12 +40,6 @@ WAIT2024 is collocated with [IJCAR2024](https://merz.gitlabpages.inria.fr/2024-i
 - [Prof. Dmitriy Traytel](https://traytel.bitbucket.io) from the University of Copenhagen
 - [Dr. Stefan Hetzl](https://dmg.tuwien.ac.at/hetzl/) from the Vienna University of Technology
 
-The list is to be completed.
-
-# Program
-
-To be announced.
-
 # Organisers
 
 - [Sorin Stratulat](https://members.loria.fr/SStratulat/)
