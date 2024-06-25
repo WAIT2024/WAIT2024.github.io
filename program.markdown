@@ -34,7 +34,7 @@ We look forward to seeing you at the event!
 </a>
   
 - Contributed Talk (12:00 - 12:30)
-  - **Title: Induction for Program Equivalence**
+  - **Title: "Induction for Program Equivalence"**
   - Speaker: [Dr. Mikoláš Janota](https://people.ciirc.cvut.cz/~janotmik/) from Czech Technical University in Prague
  
 <a href="https://people.ciirc.cvut.cz/~janotmik/" target="_blank" style="margin-left: 40px;">
@@ -45,7 +45,7 @@ We look forward to seeing you at the event!
 
 ## Session 3 (14:00 - 16:00)
 - Tutorial (14:00 - 16:00)
-  - **Title: Induction in Saturation-Based Proving**
+  - **Title: "Induction in Saturation-Based Proving"**
   - Speakers: [Prof. Andrei Voronkov](http://voronkov.com) from the University of Manchester and [Ms. Petra Hozzová](https://logic-cs.at/phd/students/petra-hozzova/) from the Vienna University of Technology
 
 <div style="display: flex; align-items: center;">
@@ -61,7 +61,7 @@ We look forward to seeing you at the event!
 
 ## Session 4 (16:30 - 18:00)
 - Contributed Talk (16:30 - 17:00)
-  - **Title: Abduction Prover for Inductive Problems in Isabelle/HOL**
+  - **Title: "Abduction Prover for Inductive Problems in Isabelle/HOL"**
   - Speaker: Dr. Yutaka Nagashima
 
 <a href="https://www.youtube.com/@unitedreasoning6567" target="_blank" style="margin-left: 40px;">
