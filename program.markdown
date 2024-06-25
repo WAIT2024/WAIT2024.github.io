@@ -34,7 +34,7 @@ We look forward to seeing you at the event!
 </a>
   
 - Contributed Talk (12:00 - 12:30)
-  - **Tentative Title: A Mathematical Benchmark for Inductive Theorem Provers**
+  - **Title: Induction for Program Equivalence**
   - Speaker: [Dr. Mikoláš Janota](https://people.ciirc.cvut.cz/~janotmik/) from Czech Technical University in Prague
  
 <a href="https://people.ciirc.cvut.cz/~janotmik/" target="_blank" style="margin-left: 40px;">
