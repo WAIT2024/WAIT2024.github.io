@@ -9,7 +9,8 @@ We look forward to seeing you at the event!
 
 ### Registration (08:30 - 09:00)
 
-## Session 1 (09:00 - 10:30): chair [Dr. Sorin Stratulat](https://members.loria.fr/SStratulat/)
+## Session 1 (09:00 - 10:30)
+- Session Chair [Dr. Sorin Stratulat](https://members.loria.fr/SStratulat/)
 - Invited Talk (9:00 - 10:00)
   - **Title: "Gauging the strength of inductive theorem provers"**  
   - Speaker: [Dr. Stefan Hetzl](https://dmg.tuwien.ac.at/hetzl/) from the Vienna University of Technology
@@ -24,7 +25,8 @@ We look forward to seeing you at the event!
 
 ### Coffee Break (10:30 - 11:00)
 
-## Session 2 (11:00 - 12:30): chair [Dr. Yutaka Nagashima](https://www.youtube.com/@unitedreasoning6567)
+## Session 2 (11:00 - 12:30)
+- Session Chair [Dr. Yutaka Nagashima](https://www.youtube.com/@unitedreasoning6567)
 - Invited Talk (11:00 - 12:00)
   - **Title: "Coinductive Reasoning in Isabelle/HOL"**
   - Speaker:  [Prof. Dmitriy Traytel](https://traytel.bitbucket.io) from the University of Copenhagen
