@@ -9,7 +9,7 @@ We look forward to seeing you at the event!
 
 ### Registration (08:30 - 09:00)
 
-## Session 1 (09:30 - 10:30)
+## Session 1 (09:00 - 10:30)
 - Invited Talk (9:00 - 10:00)
   - **Title: "Gauging the strength of inductive theorem provers"**  
   - Speaker: [Dr. Stefan Hetzl](https://dmg.tuwien.ac.at/hetzl/) from the Vienna University of Technology
