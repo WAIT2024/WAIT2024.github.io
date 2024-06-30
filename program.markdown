@@ -46,6 +46,7 @@ We look forward to seeing you at the event!
 ### Lunch Break (12:30 - 14:00)
 
 ## Session 3 (14:00 - 16:00)
+- Session chair: [Dr. Stefan Hetzl](https://dmg.tuwien.ac.at/hetzl/)
 - Tutorial (14:00 - 16:00)
   - **Title: "Induction in Saturation-Based Proving"**
   - Speakers: [Prof. Andrei Voronkov](http://voronkov.com) from the University of Manchester and [Ms. Petra Hozzová](https://logic-cs.at/phd/students/petra-hozzova/) from the Vienna University of Technology
