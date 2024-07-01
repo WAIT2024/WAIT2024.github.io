@@ -64,7 +64,7 @@ We look forward to seeing you at the event!
 
 ## Session 4 (16:30 - 18:00)
 - Contributed Talk (16:30 - 17:00)
-  - **Title: "Abduction Prover for Inductive Problems in Isabelle/HOL"**
+  - [**Title: "Abduction Prover for Inductive Problems in Isabelle/HOL"**](https://drive.google.com/file/d/1iffV04VMwYXUq_IJXY-A3vtCXNk3vjK8/view?usp=share_link)
   - Speaker: Dr. Yutaka Nagashima
 
 <a href="https://www.youtube.com/@unitedreasoning6567" target="_blank" style="margin-left: 40px;">
