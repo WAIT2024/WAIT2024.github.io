@@ -39,6 +39,7 @@ We look forward to seeing you at the event!
 - Contributed Talk (12:00 - 12:30)
   - **Title: "Induction for Program Equivalence"**
   - Speaker: [Dr. Mikoláš Janota](https://people.ciirc.cvut.cz/~janotmik/) from Czech Technical University in Prague
+  - Slides: [here](https://www.dropbox.com/scl/fi/c2uj0fotjgkmg9gv8p6sq/Mikolas_Jonata.pdf?rlkey=afewdi7lg5tblvei0bvpb30hh&st=o7odxbgj&dl=0)
  
 <a href="https://people.ciirc.cvut.cz/~janotmik/" target="_blank" style="margin-left: 40px;">
 <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/mikolas_jonata.webp" height="170">
