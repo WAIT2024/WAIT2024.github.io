@@ -14,6 +14,7 @@ We look forward to seeing you at the event!
 - Invited Talk (9:00 - 10:00)
   - **Title: "Gauging the strength of inductive theorem provers"**  
   - Speaker: [Dr. Stefan Hetzl](https://dmg.tuwien.ac.at/hetzl/) from the Vienna University of Technology
+  - Slides: [here](https://www.dropbox.com/scl/fi/e1agk741t4nfd9f2hbil8/Stefan_Hetzl.pdf?rlkey=g5yniifh231nskdr741rh0zsp&st=fa7vopqm&dl=0)
 
 <a href="https://dmg.tuwien.ac.at/hetzl/" target="_blank" style="margin-left: 40px;">
 <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/stefan_hetzl.jpeg" height="170">
@@ -64,7 +65,7 @@ We look forward to seeing you at the event!
 
 ## Session 4 (16:30 - 18:00)
 - Contributed Talk (16:30 - 17:00)
-  - [**Title: "Abduction Prover for Inductive Problems in Isabelle/HOL"**](https://drive.google.com/file/d/1iffV04VMwYXUq_IJXY-A3vtCXNk3vjK8/view?usp=share_link)
+  - **Title: "Abduction Prover for Inductive Problems in Isabelle/HOL"**
   - Speaker: Dr. Yutaka Nagashima
 
 <a href="https://www.youtube.com/@unitedreasoning6567" target="_blank" style="margin-left: 40px;">
