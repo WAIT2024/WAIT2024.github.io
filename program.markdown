@@ -50,7 +50,7 @@ We look forward to seeing you at the event!
 - Session chair: [Dr. Stefan Hetzl](https://dmg.tuwien.ac.at/hetzl/)
 - Tutorial (14:00 - 16:00)
   - **Title: "Induction in Saturation-Based Proving"**
-  - Speakers: [Prof. Andrei Voronkov](http://voronkov.com) from the University of Manchester and [Ms. Petra Hozzová](https://logic-cs.at/phd/students/petra-hozzova/) from the Vienna University of Technology
+  - Speakers: [Prof. Andrei Voronkov](http://voronkov.com) from the University of Manchester and [Dr. Petra Hozzová](https://logic-cs.at/phd/students/petra-hozzova/) from the Vienna University of Technology
 
 <div style="display: flex; align-items: center;">
   <a href="http://voronkov.com" target="_blank" style="margin-left: 40px;">
