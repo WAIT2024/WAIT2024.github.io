@@ -5,7 +5,6 @@ permalink: /program/
 ---
 
 Welcome to WAIT2024! Below is the schedule for the day.
-We look forward to seeing you at the event!
 
 ### Registration (08:30 - 09:00)
 
