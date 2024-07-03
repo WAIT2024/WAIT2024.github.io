@@ -13,7 +13,7 @@ Welcome to WAIT2024! Below is the schedule for the day.
 - Invited Talk (9:00 - 10:00)
   - **Title: "Gauging the strength of inductive theorem provers"**  
   - Speaker: [Dr. Stefan Hetzl](https://dmg.tuwien.ac.at/hetzl/) from the Vienna University of Technology
-  - Slides: [here](https://github.com/WAIT2024/WAIT2024.github.io/blob/main/slide/Stefan_Hetzl.pdf)
+  - Slides: [here](https://drive.google.com/file/d/1J1tTrXWoK2x9nymKoGfTGg57iMOX9qDn/view?usp=sharing)
 
 <a href="https://dmg.tuwien.ac.at/hetzl/" target="_blank" style="margin-left: 40px;">
 <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/stefan_hetzl.jpeg" height="170">
@@ -22,7 +22,7 @@ Welcome to WAIT2024! Below is the schedule for the day.
 - Contributed Talk (10:00 - 10:30)
   - **Title: "Lemma Discovery and Strategies for Automated Induction"**
   - Speaker: [Ms. Sólrún Einarsdóttir](https://www.cse.chalmers.se/~slrn/) from Chalmers University of Technology
-  - Slides: [here](https://github.com/WAIT2024/WAIT2024.github.io/blob/main/slide/Solrun_Halla_Einarsdottir.pdf)
+  - Slides: [here](https://drive.google.com/file/d/1KAFvKd2Gkg4RXMAgYw3hha0kumyVu32P/view?usp=sharing)
 
 ### Coffee Break (10:30 - 11:00)
 
@@ -41,7 +41,7 @@ Welcome to WAIT2024! Below is the schedule for the day.
 - Contributed Talk (12:00 - 12:30)
   - **Title: "Induction for Program Equivalence"**
   - Speaker: [Dr. Mikoláš Janota](https://people.ciirc.cvut.cz/~janotmik/) from Czech Technical University in Prague
-  - Slides: [here](https://github.com/WAIT2024/WAIT2024.github.io/blob/main/slide/Mikolas_Jonata.pdf)
+  - Slides: [here](https://drive.google.com/file/d/1vg_dKTJv8dSPJiZzRapvwhvvp-rcqutN/view?usp=sharing)
  
 <a href="https://people.ciirc.cvut.cz/~janotmik/" target="_blank" style="margin-left: 40px;">
 <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/mikolas_jonata.webp" height="170">
@@ -54,7 +54,7 @@ Welcome to WAIT2024! Below is the schedule for the day.
 - Tutorial (14:00 - 16:00)
   - **Title: "Induction in Saturation-Based Proving"**
   - Speakers: [Prof. Andrei Voronkov](http://voronkov.com) from the University of Manchester and [Dr. Petra Hozzová](https://logic-cs.at/phd/students/petra-hozzova/) from the Vienna University of Technology
-  - Slides: [here](https://github.com/WAIT2024/WAIT2024.github.io/blob/main/slide/Andrei_Voronkov_and_Petra_Hozzova.pdf)
+  - Slides: [here](https://drive.google.com/file/d/1uCNSaUcfwCqvV9qiUgYLIGZ_QWCP9yH5/view?usp=sharing)
 
 <div style="display: flex; align-items: center;">
   <a href="http://voronkov.com" target="_blank" style="margin-left: 40px;">
