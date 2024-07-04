@@ -30,6 +30,7 @@ Welcome to WAIT2024! Below is the schedule for the day.
 - Session Chair [Dr. Yutaka Nagashima](https://www.youtube.com/@unitedreasoning6567)
 - Invited Talk (11:00 - 12:00)
   - **Title: "Coinductive Reasoning in Isabelle/HOL"**
+  - Based on the speaker's forthcoming book "Proof Assistants and Their Applications in Mathematics and Computer Science".
   - Isabelle file used in the demo: [here](https://github.com/WAIT2024/WAIT2024.github.io/blob/main/slide/WAIT24.thy)
   - Isabelle file (full): [here](https://github.com/WAIT2024/WAIT2024.github.io/blob/main/slide/WAIT24_Full.thy)
   - Speaker:  [Prof. Dmitriy Traytel](https://traytel.bitbucket.io) from the University of Copenhagen
