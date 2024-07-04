@@ -70,7 +70,8 @@ Welcome to WAIT2024! Below is the schedule for the day.
 ## Session 4 (16:30 - 18:00)
 - Contributed Talk (16:30 - 17:00)
   - **Title: "Abduction Prover for Inductive Problems in Isabelle/HOL"**
-  - Demo: [here](https://youtu.be/rXU-lJxP_GI)
+  - Slides: [here](https://drive.google.com/file/d/1QFL30JZe1nZSLKlQaCKKFoQxxz3MAOx4/view?usp=sharing)
+  - Demo video: [here](https://youtu.be/rXU-lJxP_GI)
   - Speaker: Dr. Yutaka Nagashima
 
 <a href="https://www.youtube.com/@unitedreasoning6567" target="_blank" style="margin-left: 40px;">
