@@ -14,6 +14,10 @@ permalink: /invited/
 
 **Abstract**: Coinductive methods are used to reason about the infinitary behavior of systems, e.g., manifested in traces of useful (potentially) non-terminating programs. Examples of such programs range from semi-decision procedures for automated theorem proving to web servers interacting with clients. In this presentation, I will survey the coinductive capabilities of the Isabelle proof assistant, with a focus on defining and reasoning about corecursive functions. In particular, I will highlight challenges for proof automation that arise in this setting.
 
+**Isabelle file used in the demo**: [here](https://github.com/WAIT2024/WAIT2024.github.io/blob/main/slide/WAIT24.thy)
+
+**Isabelle file (full)**: [here](https://github.com/WAIT2024/WAIT2024.github.io/blob/main/slide/WAIT24_Full.thy)
+
 ### **Title**: Gauging the strength of inductive theorem provers
 
 **Speaker**: [Dr. Stefan Hetzl](https://dmg.tuwien.ac.at/hetzl/) from the Vienna University of Technology
@@ -44,6 +48,8 @@ suitable challenge problems for the improvement of inductive theorem provers.
 In this talk I will present the analyses of several popular methods and put
 particular emphasis on the challenge problems obtained from them. This talk is
 based on joint work with [Jannik Vierling](https://jvierling.github.io).
+
+**Slides**: [here](https://drive.google.com/file/d/1J1tTrXWoK2x9nymKoGfTGg57iMOX9qDn/view?usp=sharing)
 
 ### **Title**: Induction in Saturation-Based Proving
 
@@ -83,3 +89,5 @@ The tutorial will consist of the following parts supported by live demonstration
 - [2] [Integer Induction in Saturation (2021)](https://doi.org/10.1007/978-3-030-79876-5_21), P. Hozzová, L. Kovács, and A. Voronkov, in Proc. of CADE 
 - [3] [Induction with Recursive Definitions in Superposition (2021)](https://doi.org/10.34727/2021/isbn.978-3-85448-046-4_34), M. Hajdu, P. Hozzová, L. Kovács, and A. Voronkov, in Proc. of FMCAD 
 - For a survey , also see: [Getting Saturated with Induction (2022)](https://doi.org/10.1007/978-3-031-22337-2_15), M. Hajdu, P. Hozzová, L. Kovács, G. Reger, and A. Voronkov, in Principles of Systems Design
+
+**Slides**: [here](https://drive.google.com/file/d/1uCNSaUcfwCqvV9qiUgYLIGZ_QWCP9yH5/view?usp=sharing)
