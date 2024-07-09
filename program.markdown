@@ -14,6 +14,7 @@ Welcome to WAIT2024! Below is the schedule for the day.
   - **Title: "Gauging the strength of inductive theorem provers"**
   - Slides: [here](https://drive.google.com/file/d/1J1tTrXWoK2x9nymKoGfTGg57iMOX9qDn/view?usp=sharing)
   - Speaker: [Dr. Stefan Hetzl](https://dmg.tuwien.ac.at/hetzl/) from the Vienna University of Technology
+  
 <div style="display: flex; align-items: center;">
   <a href="https://dmg.tuwien.ac.at/hetzl/" target="_blank" style="margin-left: 40px;">
     <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/stefan_hetzl.jpeg" height="170">
@@ -27,6 +28,7 @@ Welcome to WAIT2024! Below is the schedule for the day.
   - **Title: "Lemma Discovery and Strategies for Automated Induction"**
   - Speaker: [Ms. Sólrún Einarsdóttir](https://www.cse.chalmers.se/~slrn/) from Chalmers University of Technology
   - Slides: [here](https://drive.google.com/file/d/1KAFvKd2Gkg4RXMAgYw3hha0kumyVu32P/view?usp=sharing)
+  
   <a href="https://drive.google.com/file/d/1KAFvKd2Gkg4RXMAgYw3hha0kumyVu32P/view?usp=sharing" target="_blank" style="margin-left: 40px;">
     <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/thumbnails/Solrun_Halla_Einarsdottir.jpg" height="170">
   </a>
@@ -54,7 +56,7 @@ Welcome to WAIT2024! Below is the schedule for the day.
   <a href="https://people.ciirc.cvut.cz/~janotmik/" target="_blank" style="margin-left: 40px;">
     <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/mikolas_jonata.webp" height="170">
   </a>
-  <a href="https://drive.google.com/file/d/1vg_dKTJv8dSPJiZzRapvwhvvp-rcqutN/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1vg_dKTJv8dSPJiZzRapvwhvvp-rcqutN/view?usp=sharing" target="_blank" >
     <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/thumbnails/Mikolas_Jonata.jpg" height="170">
   </a>
 </div>
