@@ -95,9 +95,13 @@ Welcome to WAIT2024! Below is the schedule for the day.
   <a href="https://www.youtube.com/@unitedreasoning6567" target="_blank" style="margin-left: 40px;">
     <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/yutaka_nagashima.png" height="170">
   </a>
-  <a href="https://drive.google.com/file/d/1QFL30JZe1nZSLKlQaCKKFoQxxz3MAOx4/view?usp=sharing" target="_blank">
-    <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/thumbnails/Yutaka_Nagashima.jpg" height="170">
+  <a href="https://www.youtube.com/watch?v=rXU-lJxP_GI" target="_blank">
+    <img src="https://img.youtube.com/vi/rXU-lJxP_GI/maxresdefault.jpg" alt="Demo video of the Abduction Prover for Isabelle/HOL" height="170">
   </a>
 </div>
+
+<a href="https://drive.google.com/file/d/1QFL30JZe1nZSLKlQaCKKFoQxxz3MAOx4/view?usp=sharing" target="_blank">
+  <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/thumbnails/Yutaka_Nagashima.jpg" height="170">
+</a>
   
 - Panel Discussion (17:00 - 18:00)
