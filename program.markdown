@@ -77,6 +77,10 @@ Welcome to WAIT2024! Below is the schedule for the day.
   </a>
 </div>
 
+  <a href="https://drive.google.com/file/d/1uCNSaUcfwCqvV9qiUgYLIGZ_QWCP9yH5/view?usp=sharing" target="_blank" style="margin-left: 40px;">
+    <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/thumbnails/Andrei_Voronkov_and_Petra_Hozzova.jpg" height="170">
+  </a>
+
 ### Coffee Break (16:00 - 16:30)
 
 ## Session 4 (16:30 - 18:00)
@@ -85,9 +89,13 @@ Welcome to WAIT2024! Below is the schedule for the day.
   - Slides: [here](https://drive.google.com/file/d/1QFL30JZe1nZSLKlQaCKKFoQxxz3MAOx4/view?usp=sharing)
   - Demo video: [here](https://youtu.be/rXU-lJxP_GI)
   - Speaker: Dr. Yutaka Nagashima
-
-<a href="https://www.youtube.com/@unitedreasoning6567" target="_blank" style="margin-left: 40px;">
-<img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/yutaka_nagashima.png" height="170">
-</a>
+<div style="display: flex; align-items: center;">
+  <a href="https://www.youtube.com/@unitedreasoning6567" target="_blank" style="margin-left: 40px;">
+    <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/yutaka_nagashima.png" height="170">
+  </a>
+  <a href="https://drive.google.com/file/d/1QFL30JZe1nZSLKlQaCKKFoQxxz3MAOx4/view?usp=sharing" target="_blank" style="margin-left: 40px;">
+    <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/thumbnails/Yutaka_Nagashima.jpg" height="170">
+  </a>
+</div>
   
 - Panel Discussion (17:00 - 18:00)
