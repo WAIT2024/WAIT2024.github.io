@@ -51,6 +51,10 @@ based on joint work with [Jannik Vierling](https://jvierling.github.io).
 
 **Slides**: [here](https://drive.google.com/file/d/1J1tTrXWoK2x9nymKoGfTGg57iMOX9qDn/view?usp=sharing)
 
+<a href="https://drive.google.com/file/d/1J1tTrXWoK2x9nymKoGfTGg57iMOX9qDn/view?usp=sharing" target="_blank" style="margin-left: 40px;">
+  <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/thumbnails/Stefan_Hetzl.jpg" height="170">
+</a>
+
 ### **Title**: Induction in Saturation-Based Proving
 
 **Speaker**: [Prof. Andrei Voronkov](http://voronkov.com) from the University of Manchester and [Ms. Petra Hozzová](https://logic-cs.at/phd/students/petra-hozzova/) from the Vienna University of Technology
@@ -63,7 +67,7 @@ based on joint work with [Jannik Vierling](https://jvierling.github.io).
     <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/petra_hozzova.jpg" height="170">
   </a>
 </div>
-
+  
 **Abstract**:
 
 Induction in saturation-based first-order theorem proving is a new exciting direction in automated reasoning, bringing together inductive reasoning and reasoning with full first-order logic extended with theories.
@@ -91,3 +95,7 @@ The tutorial will consist of the following parts supported by live demonstration
 - For a survey , also see: [Getting Saturated with Induction (2022)](https://doi.org/10.1007/978-3-031-22337-2_15), M. Hajdu, P. Hozzová, L. Kovács, G. Reger, and A. Voronkov, in Principles of Systems Design
 
 **Slides**: [here](https://drive.google.com/file/d/1uCNSaUcfwCqvV9qiUgYLIGZ_QWCP9yH5/view?usp=sharing)
+
+<a href="https://drive.google.com/file/d/1uCNSaUcfwCqvV9qiUgYLIGZ_QWCP9yH5/view?usp=sharing" target="_blank" style="margin-left: 40px;">
+  <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/thumbnails/Andrei_Voronkov_and_Petra_Hozzova.jpg" height="170">
+</a>
