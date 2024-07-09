@@ -14,9 +14,12 @@ Welcome to WAIT2024! Below is the schedule for the day.
   - **Title: "Gauging the strength of inductive theorem provers"**
   - Slides: [here](https://drive.google.com/file/d/1J1tTrXWoK2x9nymKoGfTGg57iMOX9qDn/view?usp=sharing)
   - Speaker: [Dr. Stefan Hetzl](https://dmg.tuwien.ac.at/hetzl/) from the Vienna University of Technology
-
 <a href="https://dmg.tuwien.ac.at/hetzl/" target="_blank" style="margin-left: 40px;">
 <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/stefan_hetzl.jpeg" height="170">
+</a>
+  - Slides:
+<a href="https://drive.google.com/file/d/1J1tTrXWoK2x9nymKoGfTGg57iMOX9qDn/view?usp=sharing" target="_blank">
+  <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/thumbnails/stefan_hetzl.jpg" alt="Thumbnail of Stefan's slide.">
 </a>
 
 - Contributed Talk (10:00 - 10:30)
