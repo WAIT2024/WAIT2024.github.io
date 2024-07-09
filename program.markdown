@@ -14,13 +14,14 @@ Welcome to WAIT2024! Below is the schedule for the day.
   - **Title: "Gauging the strength of inductive theorem provers"**
   - Slides: [here](https://drive.google.com/file/d/1J1tTrXWoK2x9nymKoGfTGg57iMOX9qDn/view?usp=sharing)
   - Speaker: [Dr. Stefan Hetzl](https://dmg.tuwien.ac.at/hetzl/) from the Vienna University of Technology
-<a href="https://dmg.tuwien.ac.at/hetzl/" target="_blank" style="margin-left: 40px;">
-<img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/stefan_hetzl.jpeg" height="170">
-</a>
-  - Slides:
-<a href="https://drive.google.com/file/d/1J1tTrXWoK2x9nymKoGfTGg57iMOX9qDn/view?usp=sharing" target="_blank">
-  <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/thumbnails/Stefan_Hetzl.jpg" alt="Thumbnail of Stefan's slide.">
-</a>
+<div style="display: flex; align-items: center;">
+  <a href="https://dmg.tuwien.ac.at/hetzl/" target="_blank" style="margin-left: 40px;">
+    <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/stefan_hetzl.jpeg" height="170">
+  </a>
+  <a href="https://drive.google.com/file/d/1J1tTrXWoK2x9nymKoGfTGg57iMOX9qDn/view?usp=sharing" target="_blank">
+    <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/thumbnails/Stefan_Hetzl.jpg" height="170">
+  </a>
+</div>
 
 - Contributed Talk (10:00 - 10:30)
   - **Title: "Lemma Discovery and Strategies for Automated Induction"**
