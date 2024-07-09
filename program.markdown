@@ -100,7 +100,7 @@ Welcome to WAIT2024! Below is the schedule for the day.
   </a>
 </div>
 
-<a href="https://drive.google.com/file/d/1QFL30JZe1nZSLKlQaCKKFoQxxz3MAOx4/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1QFL30JZe1nZSLKlQaCKKFoQxxz3MAOx4/view?usp=sharing" target="_blank" style="margin-left: 40px;">
   <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/thumbnails/Yutaka_Nagashima.jpg" height="170">
 </a>
   
