@@ -50,10 +50,14 @@ Welcome to WAIT2024! Below is the schedule for the day.
   - **Title: "Induction for Program Equivalence"**
   - Slides: [here](https://drive.google.com/file/d/1vg_dKTJv8dSPJiZzRapvwhvvp-rcqutN/view?usp=sharing)
   - Speaker: [Dr. Mikoláš Janota](https://people.ciirc.cvut.cz/~janotmik/) from Czech Technical University in Prague
- 
-<a href="https://people.ciirc.cvut.cz/~janotmik/" target="_blank" style="margin-left: 40px;">
-<img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/mikolas_jonata.webp" height="170">
-</a> 
+<div style="display: flex; align-items: center;">
+  <a href="https://people.ciirc.cvut.cz/~janotmik/" target="_blank" style="margin-left: 40px;">
+    <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/mikolas_jonata.webp" height="170">
+  </a>
+  <a href="https://drive.google.com/file/d/1vg_dKTJv8dSPJiZzRapvwhvvp-rcqutN/view?usp=sharing" target="_blank">
+    <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/thumbnails/Mikolas_Jonata.jpg" height="170">
+  </a>
+</div>
 
 ### Lunch Break (12:30 - 14:00)
 
