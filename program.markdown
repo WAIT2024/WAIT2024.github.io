@@ -19,7 +19,7 @@ Welcome to WAIT2024! Below is the schedule for the day.
 </a>
   - Slides:
 <a href="https://drive.google.com/file/d/1J1tTrXWoK2x9nymKoGfTGg57iMOX9qDn/view?usp=sharing" target="_blank">
-  <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/thumbnails/stefan_hetzl.jpg" alt="Thumbnail of Stefan's slide.">
+  <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/thumbnails/Stefan_Hetzl.jpg" alt="Thumbnail of Stefan's slide.">
 </a>
 
 - Contributed Talk (10:00 - 10:30)
