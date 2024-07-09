@@ -95,7 +95,7 @@ Welcome to WAIT2024! Below is the schedule for the day.
   <a href="https://www.youtube.com/@unitedreasoning6567" target="_blank" style="margin-left: 40px;">
     <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/yutaka_nagashima.png" height="170">
   </a>
-  <a href="https://drive.google.com/file/d/1QFL30JZe1nZSLKlQaCKKFoQxxz3MAOx4/view?usp=sharing" target="_blank" style="margin-left: 40px;">
+  <a href="https://drive.google.com/file/d/1QFL30JZe1nZSLKlQaCKKFoQxxz3MAOx4/view?usp=sharing" target="_blank">
     <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/thumbnails/Yutaka_Nagashima.jpg" height="170">
   </a>
 </div>
