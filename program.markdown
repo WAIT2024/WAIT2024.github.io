@@ -27,6 +27,9 @@ Welcome to WAIT2024! Below is the schedule for the day.
   - **Title: "Lemma Discovery and Strategies for Automated Induction"**
   - Speaker: [Ms. Sólrún Einarsdóttir](https://www.cse.chalmers.se/~slrn/) from Chalmers University of Technology
   - Slides: [here](https://drive.google.com/file/d/1KAFvKd2Gkg4RXMAgYw3hha0kumyVu32P/view?usp=sharing)
+  <a href="https://drive.google.com/file/d/1KAFvKd2Gkg4RXMAgYw3hha0kumyVu32P/view?usp=sharing" target="_blank" style="margin-left: 40px;">
+    <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/thumbnails/Solrun_Halla_Einarsdottir.jpg" height="170">
+  </a>
 
 ### Coffee Break (10:30 - 11:00)
 
