@@ -92,7 +92,7 @@ Welcome to WAIT2024! Below is the schedule for the day.
   - Demo video: [here](https://youtu.be/rXU-lJxP_GI)
   - Speaker: Dr. Yutaka Nagashima
 <div style="display: flex; align-items: center;">
-  <a href="https://www.youtube.com/@unitedreasoning6567" target="_blank" style="margin-left: 40px;">
+  <a href="https://yutakang.github.io" target="_blank" style="margin-left: 40px;">
     <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/yutaka_nagashima.png" height="170">
   </a>
   <a href="https://www.youtube.com/watch?v=rXU-lJxP_GI" target="_blank">
