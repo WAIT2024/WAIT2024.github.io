@@ -43,13 +43,13 @@ WAIT2024 is collocated with [IJCAR2024](https://merz.gitlabpages.inria.fr/2024-i
 # Organisers
 
 - [Sorin Stratulat](https://members.loria.fr/SStratulat/)
-- [Yutaka Nagashima](https://www.youtube.com/@unitedreasoning6567)
+- [Yutaka Nagashima](https://yutakang.github.io)
 
 <div style="display: flex; align-items: center;">
   <a href="https://members.loria.fr/SStratulat/" target="_blank">
     <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/sorin_stratulat.jpg" height="170"> <!-- Adjust margin as needed -->
   </a>
-  <a href="https://www.youtube.com/@unitedreasoning6567" target="_blank">
+  <a href="https://yutakang.github.io" target="_blank">
     <img src="https://raw.githubusercontent.com/WAIT2024/WAIT2024.github.io/main/image/yutaka_nagashima.png" height="170">
   </a>
 </div>
